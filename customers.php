@@ -63,7 +63,6 @@ class Customers
 	private static $email;
 	private static $mobile;
 	
-	//display create table
 	
 	
 	public static function create_insert($pdo, $name, $email, $mobile)
